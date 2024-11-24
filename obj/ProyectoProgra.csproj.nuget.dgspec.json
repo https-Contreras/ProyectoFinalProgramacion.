@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jaeld\\OneDrive\\Documentos\\C# proyects\\ProyectoProgra\\ProyectoProgra\\ProyectoProgra.csproj": {}
+    "C:\\Users\\Jaeld\\OneDrive\\Escritorio\\ProyectoFinalProgramacionB\\ProyectoProgra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jaeld\\OneDrive\\Documentos\\C# proyects\\ProyectoProgra\\ProyectoProgra\\ProyectoProgra.csproj": {
+    "C:\\Users\\Jaeld\\OneDrive\\Escritorio\\ProyectoFinalProgramacionB\\ProyectoProgra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaeld\\OneDrive\\Documentos\\C# proyects\\ProyectoProgra\\ProyectoProgra\\ProyectoProgra.csproj",
+        "projectUniqueName": "C:\\Users\\Jaeld\\OneDrive\\Escritorio\\ProyectoFinalProgramacionB\\ProyectoProgra.csproj",
         "projectName": "ProyectoProgra",
-        "projectPath": "C:\\Users\\Jaeld\\OneDrive\\Documentos\\C# proyects\\ProyectoProgra\\ProyectoProgra\\ProyectoProgra.csproj",
+        "projectPath": "C:\\Users\\Jaeld\\OneDrive\\Escritorio\\ProyectoFinalProgramacionB\\ProyectoProgra.csproj",
         "packagesPath": "C:\\Users\\Jaeld\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaeld\\OneDrive\\Documentos\\C# proyects\\ProyectoProgra\\ProyectoProgra\\obj\\",
+        "outputPath": "C:\\Users\\Jaeld\\OneDrive\\Escritorio\\ProyectoFinalProgramacionB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jaeld\\AppData\\Roaming\\NuGet\\NuGet.Config",
