@@ -63,6 +63,16 @@ namespace ProyectoProgra.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Hamburguesa {
+            get {
+                object obj = ResourceManager.GetObject("Hamburguesa", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap uaalogo_01 {
             get {
                 object obj = ResourceManager.GetObject("uaalogo-01", resourceCulture);
